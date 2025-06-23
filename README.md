@@ -22,7 +22,7 @@ Trực quan hướng giải bài toán **Knight's Tour** sử dụng thuật to�
     ```
 2. Mở file `index.html` bằng trình duyệt
 3. Chọn ô bất kì để đặt con mã
-
+4. Hoặc dùng link https://knight-tour-five.vercel.app/
 ## 📁 Cấu trúc dự án
 
 <pre>
