@@ -23,13 +23,17 @@ Một ứng dụng web mô phỏng bài toán **Knight's Tour** (Hành trình c�
 2. Mở file `index.html` bằng trình duyệt
 3. Chọn ô bất kì để đặt con mã
 
-## Cấu trúc dự án
+## 📁 Cấu trúc dự án
+
+<pre>
 knights-tour/
 │
-├── index.html # Giao diện 
-├── style.css # Giao diện và bố cục 
-└── js/
-├── main.js 
-├── board.js # Tạo bàn cờ 
-├── algorithm.js # Thuật toán backtrack
-└── ui.js # Xử lý giao diện
+├── index.html         # Giao diện chính của ứng dụng
+├── style.css          # Giao diện và bố cục (responsive layout)
+└── js/                # Thư mục chứa mã JavaScript
+    ├── main.js        # Khởi tạo và load ứng dụng
+    ├── board.js       # Tạo và quản lý bàn cờ
+    ├── algorithm.js   # Cài đặt thuật toán backtracking
+    └── ui.js          # Xử lý giao diện và sự kiện người dùng
+</pre>
+
