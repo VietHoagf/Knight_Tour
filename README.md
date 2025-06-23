@@ -1,6 +1,6 @@
 # CON MÃ ĐI TUẦN
 
-Một ứng dụng web mô phỏng bài toán **Knight's Tour** (Hành trình của quân mã) sử dụng thuật toán **Quay lui (Backtracking)**.
+Trực quan hướng giải bài toán **Knight's Tour** sử dụng thuật toán **Quay lui (Backtracking)**.
 
 ## Giới thiệu
 
