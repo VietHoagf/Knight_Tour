@@ -16,7 +16,7 @@ Trực quan hướng giải bài toán **Knight's Tour** sử dụng thuật to�
 
 1. Tải hoặc clone repo này về máy:
     ```bash
-    git clone https://github.com/ten-cua-ban/knights-tour.git
+    git clone https://github.com/VietHoagf/Knight_Tour.git
     cd knights-tour
     start index.html
     ```
